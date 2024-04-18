@@ -3,7 +3,7 @@
 Repo pour la formation Git
 
 
-## TP-4
+## TP-5
 
 Installation python3
 
@@ -17,7 +17,7 @@ Création d'un environnement virtuel python
 
 ```bash
 python -m venv venv
-source venv/bn/activate
+source venv/bin/activate
 ```
 
 Installation des dépendances
