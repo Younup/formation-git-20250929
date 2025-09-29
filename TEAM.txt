@@ -1,4 +1,14 @@
 MEMBRES DE L'EQUIPE
 Xavier BIBARD Architecte Technique Infrastructure
 =======
+=======
+Carole
+PESEUX
+Débutant en GIT
+Antoine-Ali Zarrouk Formateur
+Anne MORINIERE Concepteur-Developpeur
+Pierre-Yves Courbet
+Antoine-Ali Zarrouk Formateur
+Sylvie FOissard Cheffe de projet
+Antoine-Ali Zarrouk Formateur
 BOUZIANE Mohamed - DATA ENGINNER
