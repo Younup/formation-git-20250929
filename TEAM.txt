@@ -1,8 +1,6 @@
 MEMBRES DE L'EQUIPE
-<<<<<<< HEAD
 Carole
 PESEUX
 Débutant en GIT
-=======
 Antoine-Ali Zarrouk Formateur
->>>>>>> a53bb4d89aa21f78ac1c819fdfb4a70c75f72f20
+Anne MORINIERE Concepteur-Developpeur
