@@ -1,6 +1,12 @@
 MEMBRES DE L'EQUIPE
+<<<<<<< HEAD
 
 
 Pierre-Yves Courbet
 Antoine-Ali Zarrouk Formateur
 
+=======
+Sylvie FOissard Cheffe de projet
+Antoine-Ali Zarrouk Formateur
+BOUZIANE Mohamed - DATA ENGINNER
+>>>>>>> 53ff939f30109857b3837ba1d100f2b9eab978e2
